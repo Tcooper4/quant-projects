@@ -1,0 +1,6 @@
+README.md
+setup.py
+quant_projects.egg-info/PKG-INFO
+quant_projects.egg-info/SOURCES.txt
+quant_projects.egg-info/dependency_links.txt
+quant_projects.egg-info/top_level.txt

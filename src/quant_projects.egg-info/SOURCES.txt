@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/features/__init__.py
+src/features/merge_data.py
+src/quant_projects.egg-info/PKG-INFO
+src/quant_projects.egg-info/SOURCES.txt
+src/quant_projects.egg-info/dependency_links.txt
+src/quant_projects.egg-info/top_level.txt
